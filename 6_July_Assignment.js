@@ -1,6 +1,6 @@
-string = ""
+str = ""
 for(i=1;i<=5;i++)
 {
-  string += "*"
+  str += "*"
 }
-console.log(string)
+console.log(str)
